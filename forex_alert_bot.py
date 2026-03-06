@@ -12,8 +12,8 @@ from datetime import datetime
 # ============================================================
 
 # --- YOUR SETTINGS (Fill these in) ---
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"   # From BotFather
-TELEGRAM_CHAT_ID   = "YOUR_CHAT_ID_HERE"     # From @userinfobot
+TELEGRAM_BOT_TOKEN = "8726091057:AAGos6DMwG_-6ZXjsVItXZeNplQTc4wQgyg"   # From BotFather
+TELEGRAM_CHAT_ID   = "5359606967"     # From @userinfobot
 CHECK_INTERVAL     = 300                      # Check every 5 minutes (seconds)
 
 # --- NEWS SOURCES ---
